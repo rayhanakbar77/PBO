@@ -1,6 +1,0 @@
-run:
-Masukkan angka 1: 1
-Masukkan angka 2: 4
-Pilih operasi (+, -, *, /, mod): +
-Hasil: 5.0
-BUILD SUCCESSFUL (total time: 16 seconds)
